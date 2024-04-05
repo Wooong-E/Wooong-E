@@ -1,6 +1,6 @@
 ## Introduction
-안녕하세요, 조웅 입니다.
+Hi, I'm Jo Woong.
 ## Career
-영남대학교 2학년 재학중
+I'm attending Yeungnam Univ.
 ## Programming language
-I'm learning C++ programming language now.
+I'm learning C++ programming language.
