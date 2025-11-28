@@ -1,16 +1,17 @@
-<h1 align="center">👋 Hi, I'm JoWoong!</h1>
+<h1 align="center">👋 Hi, I'm JoWoong</h1>
 
 <p align="center">
-  <b>컴퓨터공학과</b> 전공<br>
-  <b>웹 백엔드 개발</b>과 <b>ML 알고리즘</b>에 관심이 있는 개발자 지망생입니다.
+  Computer Science major and aspiring developer<br>
+  Interested in <b>Web Backend Development</b> and <b>Machine Learning Algorithms</b>
 </p>
 
 ---
 
-## 🚀 Introduction
-- 🎓 **Computer Science Major**
-- 💻 관심 분야: **Web Backend Development**, **Machine Learning Algorithms**
-- 🌱 학교에서 배운 지식을 실제 서비스 개발로 확장하기 위해 다양한 프로젝트 경험을 쌓고 있습니다.
+## 🚀 About Me
+- 🎓 Major in **Computer Science**
+- 💻 Passionate about **backend engineering**, **system design**, and **ML algorithms**
+- 📚 Expanding academic knowledge into real-world development through various personal and team projects
+- 🌱 Always learning and improving through hands-on experience and collaboration
 
 ---
 
@@ -50,28 +51,37 @@
 ## 📌 Projects
 
 ### 📱 **OpenBook**
-> 모바일 도서 관리 시스템  
-> 기술: Java, PHP, Android Studio
+Mobile library management system  
+**Tech:** Java, PHP, Android Studio
 
 ---
 
 ### 🌐 **swproject**
-> 경산시 관광 웹 시스템 개발  
-> 기술: Spring Boot, Thymeleaf, HTML, CSS
+Gyeongsan City tourism web service backend  
+**Tech:** Spring Boot, Thymeleaf, HTML, CSS
 
 ---
 
 ### 🎮 **game-s-cord**
-> 게임메이트 매칭 웹 시스템  
-> 기술: Spring Boot, Java, React 협업 기반 API 개발
+Web-based game mate matching system  
+**Tech:** Spring Boot, Java, API development with React team collaboration
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whdnd5725&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whdnd5725&layout=compact&theme=tokyonight" height="160px"/>
+</p>
 
 ---
 
 ## 📫 Contact
-📧 **Email:** whdnd5725@gmail.com
+📧 Email: **whdnd5725@gmail.com**
 
 ---
 
 <p align="center">
-  ✨ 꾸준히 배우고 성장하는 개발자가 되겠습니다. ✨  
+  ✨ I strive to grow steadily as a developer through continuous learning and real-world experience. ✨
 </p>
